@@ -1,0 +1,7 @@
+{
+  "name": "toeat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
